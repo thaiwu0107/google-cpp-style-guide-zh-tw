@@ -4,7 +4,7 @@
 * [背景](1_background.md)
 * [標頭檔 (Header Files)](2_header_files.md)
 * [作用域 (Scoping)](3_scoping.md)
-* [類別 (Classes)]()
+* [類別 (Classes)](4_classes.md)
 * [Google 特有的魔術]()
 * [其他 C++ 特性]()
 * [命名]()

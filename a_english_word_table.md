@@ -12,10 +12,12 @@
 | Compile | 編譯 |
 | Compiler | 編譯器 |
 | Constructor | 建構函式 |
+| Crash | 崩潰 |
 | Declaration | 宣告 |
 | Define, Definition | 定義 |
 | Destructor | 解構函式 |
 | Directory | 資料夾、目錄 |
+| Exception | 例外 |
 | Forward Declaration | 前向宣告 |
 | Function | 函式 |
 | Global Scope | 全域 |
@@ -42,13 +44,14 @@
 | Raw Pointer | 原始指標 |
 | Reference | 參考 |
 | Smart Pointer | 智慧指標 |
+| Source Code | 程式碼 |
 | Statement | 陳述句 |
 | Static Data Member | 靜態資料成員 |
 | Static Member Function | 靜態成員函式 |
 | Struct | 結構 |
 | Symbol | 符號 |
 | Template | 模板 |
-| Thread | 線程 |
+| Thread | 執行緒 |
 | Type | 型別 |
 | Unnamed Namespaces | 無名名稱空間 |
 | Virtual Function | 虛擬函式 |
