@@ -18,9 +18,10 @@
 | Dependency | 依賴關係 |
 | Destructor | 解構函式 |
 | Directory | 資料夾、目錄 |
-| Exception | 例外 |
 | Entity | 實體 |
+| Exception | 例外 |
 | External Linkage | 外部連結性 |
+| Factory Method | 工廠方法 |
 | Forward Declaration | 前向宣告 |
 | Function | 函式 |
 | Global Scope | 全域 |
